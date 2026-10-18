@@ -1,0 +1,11 @@
+*.bin
+*.img
+*.E01
+*.db
+*.db-wal
+*.db-shm
+*.mem
+*.dmp
+*.pcap
+*.zip
+.DS_Store
